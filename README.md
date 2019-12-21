@@ -14,6 +14,10 @@ Last Date the article was modified.
 
 
 Here is the overall architecture of search engine:
+![alt text](https://github.com/JaimeGoB/Search-Engine/blob/master/searchEngineArchitecture.png)
 
 Here is a UML diagram of the solution:
 ![alt text](https://github.com/JaimeGoB/Search-Engine/blob/master/ProjectDesign.png)
+
+Here is an example of a file that contains one court case:
+![alt text](https://github.com/JaimeGoB/Search-Engine/blob/master/jsonFiles.png)
